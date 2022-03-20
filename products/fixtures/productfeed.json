@@ -1,0 +1,324 @@
+[
+   {
+      "pk":1,
+      "model":"products.product",
+      "fields":{
+         "sku":"018084014325",
+         "name":"Aveda NutriPlenish shampoo light Moisture",
+         "description":"Creamy lightweight formula, with a vegan superfood blend, cleanses and replenishes dry hair with nutrient hydration",
+         "price":25.88,
+         "category":1,
+         "rating":4.6,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/31485be3/aveda-nutriplenish-shampoo-light-moisture.jpg",
+         "image":"aveda-nutriplenish-shampoo-light-moisture.jpg"
+      }
+   },
+   {
+      "pk":2,
+      "model":"products.product",
+      "fields":{
+         "sku":"0018084014431",
+         "name":"Aveda NutriPlenish Shampoo deep Moisture 1000ml",
+         "description":"A vegan superfood blend of potent plant butters and oils cleanses and nourishes dry hair with nourishing hydration",
+         "price":76.50,
+         "category":1,
+         "rating":4.2,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/383105077f071a16ccab9f65140d0105/image/3995fe42/aveda-nutriplenish-shampoo-deep-moisture-1000ml.jpg",
+         "image":"aveda-nutriplenish-shampoo-deep-moisture-1000ml.jpg"
+      }
+   },
+   {
+      "pk":3,
+      "model":"products.product",
+      "fields":{
+         "sku":"018084036021",
+         "name":"NutriPlenish Treatment Masque Deep Moisture",
+         "description":"NutriPlenish Treatment Masque Deep Moisture The rich nourishing moisturizing treatment is a very luxurious cream mask with 4 x the hydration of untreated hair. Moisturizes and conditions intensively for visibly luscious hair. Treats dry fragile hair and restores hydration for hair that looks shiny, nourished and healthy",
+         "price":40.50,
+         "category":1,
+         "rating":4.4,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/4399e3f7/nutriplenish-treatment-masque-deep-moisture.png",
+         "image":"nutriplenish-treatment-masque-deep-moisture.png"
+      }
+   },
+   {
+      "pk":4,
+      "model":"products.product",
+      "fields":{
+         "sku":"0018084014479",
+         "name":"Aveda NutriPlenish Conditioner deep Moisture Hydratation",
+         "description":"Aveda Nutri Plenish Conditioner light Moisture Hydratation with unique ingredients",
+         "price":28.88,
+         "category":1,
+         "rating":3.2,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/3145b122/aveda-nutriplenish-conditioner-deep-moisture-hydratation.jpg",
+         "image":"aveda-nutriplenish-conditioner-deep-moisture-hydratation.jpg"
+      }
+   },
+   {
+      "pk":5,
+      "model":"products.product",
+      "fields":{
+         "sku":"018084875896",
+         "name":"Aveda Light Elements Texturizing Cream",
+         "description":"ultra-light texture with light hold",
+         "price":22.88,
+         "category":2,
+         "rating":4.9,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/1379954/aveda-light-elements-texturizing-creme.jpg",
+         "image":"aveda-light-elements-texturizing-creme.jpg"
+      }
+   },
+   {
+      "pk":6,
+      "model":"products.product",
+      "fields":{
+         "sku":"018084879696",
+         "name":"Aveda Light Elements Defining Whip",
+         "description":"Aveda Light Elements Defining Whip, Models without making hair heavy or sticky",
+         "price":24.75,
+         "category":2,
+         "rating":4.7,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/383105077f071a16ccab9f65140d0105/image/20334f8/aveda-light-elements-defining-whip.jpg",
+         "image":"aveda-light-elements-defining-whip.jpg"
+      }
+   },
+   {
+      "pk":8,
+      "model":"products.product",
+      "fields":{
+         "sku":"018084981047",
+         "name":"Aveda Texture Tonique Spray- 125 ml",
+         "description":"Aveda Texture Tonique Spray- 125 ml Three looks in 1 product.",
+         "price":22.88,
+         "category":2,
+         "rating":4.5,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/1174e00e/aveda-texture-tonique-spray-125-ml.jpg",
+         "image":"aveda-texture-tonique-spray-125-ml.jpg"
+      }
+   },
+   {
+      "pk":9,
+      "model":"products.product",
+      "fields":{
+         "sku":"bk5002690715",
+         "name":"botanical kinetics™ pore refiner",
+         "description":"Fast-absorbing serum, with a fusion of sweet clover stem cells and vegetable beta-hydroxy acid, instantly unclogs and minimizes pores",
+         "price":45.75,
+         "category":3,
+         "rating":3.8,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/43739df8/botanical-kineticstm-pore-refiner.png",
+         "image":"botanical-kineticstm-pore-refiner.png"
+      }
+   },
+   {
+      "pk":10,
+      "model":"products.product",
+      "fields":{
+         "sku":"bk5002701115",
+         "name":"botanical kinetics™ intense hydrator",
+         "description":"Fast-absorbing serum, with cactus fruit stem cells and vegetable hyaluronic acid, instantly restores skin hydration, minimizes fine dry lines and restores the skin's protective lipid barrier, keeping skin well-hydrated throughout the day.",
+         "price":45.75,
+         "category":3,
+         "rating":4.4,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/43723031/botanical-kineticstm-intense-hydrator.png",
+         "image":"botanical-kineticstm-intense-hydrator.png"
+      }
+   },
+   {
+      "pk":11,
+      "model":"products.product",
+      "fields":{
+         "sku":"bk5002761055",
+         "name":"Aveda cherry almond body scrub",
+         "description":"The Aveda cherry almond body scrub is 98% derived from natural origin. The body scrub removes dead skin cells and skin-devouring impurities.",
+         "price":26.25,
+         "category":3,
+         "rating":3.0,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/41598ff6/aveda-cherry-almond-body-scrub.jpg",
+         "image":"aveda-cherry-almond-body-scrub.jpg"
+      }
+   },
+   {
+      "pk":12,
+      "model":"products.product",
+      "fields":{
+         "sku":"bk5002820069",
+         "name":"Aveda Botanical Kinetics Energizing Eye Creme",
+         "description":"Aveda Botanical Kinetics Energizing Eye Creme Reduce dark circles and bags under the eyes with licorice root and coffee bean extracts.",
+         "price":31.99,
+         "category":3,
+         "rating":4.6,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/4022adc/aveda-botanical-kinetics-energizing-eye-creme.jpg",
+         "image":"aveda-botanical-kinetics-energizing-eye-creme.jpg"
+      }
+   },
+   {
+      "pk":13,
+      "model":"products.product",
+      "fields":{
+         "sku":"av5002820147",
+         "name":"Aveda cooling package Rosemary mint",
+         "description":"Get through these hot days fresh. ",
+         "price":80.00,
+         "category":4,
+         "rating":3.2,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/383105077f071a16ccab9f65140d0105/image/15102125/aveda-verkoelingspakket-rosemary-mint.jpg",
+         "image":"aveda-verkoelingspakket-rosemary-mint.jpg"
+      }
+   },
+   {
+      "pk":14,
+      "model":"products.product",
+      "fields":{
+         "sku":"av5002910572",
+         "name":"Aveda Shampure Composition - 50ml",
+         "description":"The Aveda Shampure Composition has the recognizable beloved calming aroma made of 25 pure flower and plant extracts. Hydrates and provides a radiant glow to the skin. A nourishing blend of certified organic sunflower and lavender oils for body, bath and scalp.",
+         "price":23.99,
+         "category":4,
+         "rating":4.7,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/383105077f071a16ccab9f65140d0105/image/3975c77/aveda-shampure-composition-50-ml.jpg",
+         "image":"aveda-shampure-composition-50-ml.jpg"
+      }
+   },
+   {
+      "pk":15,
+      "model":"products.product",
+      "fields":{
+         "sku":"av5002990740",
+         "name":"Aveda Stress-fix Composition Oil",
+         "description":"Aveda Stress-fix Composition Oil nourishes and softens the skin",
+         "price":24.99,
+         "category":4,
+         "rating":4.8,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/383105077f071a16ccab9f65140d0105/image/4091b84/aveda-stress-fix-composition-oil.jpg",
+         "image":"aveda-stress-fix-composition-oil.jpg"
+      }
+   },
+   {
+      "pk":16,
+      "model":"products.product",
+      "fields":{
+         "sku":"av5003050248",
+         "name":"Aveda Beautifying Composition",
+         "description":"Aveda Beautifying Composition is an aromatic, nourishing body oil",
+         "price":20.99,
+         "category":4,
+         "rating":4.4,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/3335685/aveda-beautifying-composition.jpg",
+         "image":"aveda-beautifying-composition.jpg"
+      }
+   },
+   {
+      "pk":17,
+      "model":"products.product",
+      "fields":{
+         "sku":"am5003070787",
+         "name":"Aveda Men Pure Formance Thickening Paste",
+         "description":"Aveda Men Pure Formance Thickening Paste thickens the hair with a natural finish.",
+         "price":23.99,
+         "category":5,
+         "rating":4.9,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/792e98b/aveda-men-pure-formance-thickening-paste.jpg",
+         "image":"aveda-men-pure-formance-thickening-paste.jpg"
+      }
+   },
+   {
+      "pk":18,
+      "model":"products.product",
+      "fields":{
+         "sku":"am5003090182",
+         "name":"Aveda Invati Men Exfoliating Shampoo",
+         "description":"Aveda Invati Men Exfoliating shampoo, exfoliates the scalp, nourishes and strengthens thinning hair.",
+         "price":39.99,
+         "category":5,
+         "rating":4.8,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/745a580/aveda-invati-men-exfoliating-shampoo.jpg",
+         "image":"aveda-invati-men-exfoliating-shampoo.jpg"
+      }
+   },
+   {
+      "pk":19,
+      "model":"products.product",
+      "fields":{
+         "sku":"am5003090186",
+         "name":"Aveda Men Pure Formance Grooming Cream 125ML",
+         "description":"smooth hold and natural shine for short to medium hair",
+         "price":20.99,
+         "category":5,
+         "rating":5.0,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/1744002/aveda-men-pure-formance-grooming-cream-125ml.jpg",
+         "image":"aveda-men-pure-formance-grooming-cream-125ml.jpg"
+      }
+   },
+   {
+      "pk":20,
+      "model":"products.product",
+      "fields":{
+         "sku":"am5003161326",
+         "name":"Aveda Men Pure Formance Shave Cream",
+         "description":"Prepares the skin for a close, comfortable shave.",
+         "price":22.99,
+         "category":5,
+         "rating":4.8,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/3112b1a/aveda-men-pure-formance-shave-cream.jpg",
+         "image":"aveda-men-pure-formance-shave-cream.jpg"
+      }
+   },
+   {
+      "pk":20,
+      "model":"products.product",
+      "fields":{
+         "sku":"ag5003161326",
+         "name":"Aveda cherry Almond gift box",
+         "description":"Aveda cherry Almond gift box",
+         "price":100.99,
+         "category":6,
+         "rating":4.8,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/43951939/aveda-cherry-almond-gift-box.png",
+         "image":"aveda-cherry-almond-gift-box.png"
+      }
+   },
+   {
+      "pk":20,
+      "model":"products.product",
+      "fields":{
+         "sku":"ag5003161326",
+         "name":"invati advanced™ system: light",
+         "description":"invati advanced™ system: light gift set",
+         "price":89.99,
+         "category":6,
+         "rating":4.8,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/43084f5d/invati-advancedtm-systeem-light.jpg",
+         "image":"invati-advancedtm-systeem-light.jpg"
+      }
+   },
+   {
+      "pk":20,
+      "model":"products.product",
+      "fields":{
+         "sku":"ag5003161326",
+         "name":"Cherry Almond Softening & Detangling Set",
+         "description":"Cherry Almond Softening & Detangling Set",
+         "price":42.99,
+         "category":6,
+         "rating":4.8,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/3190a123/cherry-almond-softening-detangling-set.jpg",
+         "image":"cherry-almond-softening-detangling-set.jpg"
+      }
+   },
+   {
+      "pk":20,
+      "model":"products.product",
+      "fields":{
+         "sku":"ag5003161326",
+         "name":"Rosemary Mint Vegan Soy Wax Candle",
+         "description":"Rosemary Mint Vegan Soy Wax Candle Gift Set",
+         "price":32.99,
+         "category":6,
+         "rating":4.8,
+         "image_url":"https://www.lemage-shop.nl/media/catalog/product/cache/dac7c6655c297ad9c402a61f712d04a6/image/1558e8a9/rosemary-mint-vegan-soy-wax-candle.jpg",
+         "image":"rosemary-mint-vegan-soy-wax-candle.jpg"
+      }
+   }
+]
