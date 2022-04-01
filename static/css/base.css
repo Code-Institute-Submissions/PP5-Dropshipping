@@ -110,6 +110,12 @@ body {
         right: 10px;
     }
 
+    .btt-link,
+    .update-link,
+    .remove-item {
+        cursor: pointer;
+    }
+
     .header-container {
         padding-top: 164px;
     }
