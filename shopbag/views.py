@@ -39,6 +39,7 @@ def adjust_bag(request, item_id):
         bag[item_id] += quantity
     else:
         bag[item_id] = quantity
+        messages.success(request, f'Updated {product.name} quantity to {bag[item_id]}')
 
     request.session['bag'] = bag
     # print(request.session['bag'])
