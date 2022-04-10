@@ -13,7 +13,7 @@ var elements = stripe.elements();
 var style = {
       base: {
         iconColor: '#c4f0ff',
-        color: '#fff',
+        color: '##228B22',
         fontWeight: '500',
         fontFamily: 'Roboto, Open Sans, Segoe UI, sans-serif',
         fontSize: '16px',
