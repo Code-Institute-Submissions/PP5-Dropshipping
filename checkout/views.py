@@ -1,10 +1,12 @@
 from django.shortcuts import render, redirect, reverse
 from django.contrib import messages
+from django.conf import settings
 
 
 from .forms import OrderForm
 from shopbag.contexts import bag_contents
 
+import stripe
 # Create your views here.
 
 def checkout(request):
