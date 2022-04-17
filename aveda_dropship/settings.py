@@ -1,4 +1,5 @@
 import os
+import dj_database_url
 
 """
 Django settings for aveda_dropship project.
@@ -25,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-wn1fw-i5uf)k3aicrjs)_u&1f_-o*3^0xzyn-e2uj@fz=nkmek'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
