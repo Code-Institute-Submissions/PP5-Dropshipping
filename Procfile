@@ -1,1 +1,1 @@
-web: gunicorn PP5-DROPSHIPPING.wsgi:application
+web: gunicorn aveda_dropship.wsgi:application
